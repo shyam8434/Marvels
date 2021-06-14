@@ -1,0 +1,27 @@
+.card-container {
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+    flex-direction: column;
+    background-color: cornsilk;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 10px;
+    margin-left: 10px;
+    min-width: 200px;
+}
+.description {
+    margin-top: 5px;
+    text-align: initial;
+}
+.description-content {
+    
+    text-align: initial;
+    max-height: 150px;
+    overflow: auto;
+}
+.comics {
+    margin-top: 5px;
+}
